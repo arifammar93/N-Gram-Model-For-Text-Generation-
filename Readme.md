@@ -1,4 +1,4 @@
-N-Gram Shakesperean Text Generator with Smoothing
+N-Gram Shakesperean Text Generator with Smoothing Using Pytorch
 
 Overview: This is a simple project to develop a n-grame text generation model (with smoothing). 
 
